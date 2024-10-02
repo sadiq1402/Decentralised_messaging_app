@@ -1,12 +1,6 @@
-# TokenTitans - Decentralized Messaging App
+# Decentralized Messaging App
 
-## Team Members:
-- **Suyash Srivastav**  
-- **Yadvendra Garg**  
-- **Arpit Mishra**  
-- **Md Sadiq Hasan Ansari**
-
-We are **TokenTitans**, a team working on a cutting-edge problem statement for a hackathon: building a **Decentralized Messaging App** with a strong emphasis on security and privacy. Our app incorporates the following key technologies:
+Building a **Decentralized Messaging App** with a strong emphasis on security and privacy. Our app incorporates the following key technologies:
 
 - **End-to-End Encryption**: Ensuring that only the communicating users can read the messages.
 - **Decentralized Identifiers (DID)**: Providing decentralized identity management for secure access.
@@ -19,4 +13,4 @@ We are **TokenTitans**, a team working on a cutting-edge problem statement for a
 - **React**: Powering the frontend for a smooth and user-friendly experience.
 - **Anvil & Hardhat**: Used for testing, deploying, and managing the development environment.
 
-Our project showcases the power of decentralized technologies in the realm of secure communication, providing a messaging app that users can trust with their privacy.
+My project showcases the power of decentralized technologies in the realm of secure communication, providing a messaging app that users can trust with their privacy.
