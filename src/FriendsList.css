@@ -1,0 +1,40 @@
+/* FriendsList.css */
+
+.friends-list-page {
+    padding: 20px;
+  }
+  
+  .friends-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .friend-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .add-friend-form {
+    margin-top: 20px;
+  }
+  
+  .add-friend-input {
+    margin-right: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .add-friend-btn {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .add-friend-btn:hover {
+    background-color: #0056b3;
+  }
+  
